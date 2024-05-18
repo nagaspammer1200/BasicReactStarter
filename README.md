@@ -4,7 +4,7 @@ No unnecessary modules have been installed.
 
 Bootstrap CSS has been included in the files using a CDN in the index.html. My experience with Bootstrap has lead to me using the CDN to initialize Bootstrap. Using npm command did not yield much results. 
 
-
+React used is version 18.2.66
 
 
 Steps to use: 
